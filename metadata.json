@@ -1,0 +1,6 @@
+{
+  "name": "Python Clean Calculator",
+  "description": "A clean, maintainable Python calculator supporting sum, subtraction, multiplication, and division with error handling for division by zero and an interactive user interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
